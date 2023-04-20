@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @cristopheridlc
-- 👀 I’m interested in becoming a data analyst
-- 🌱 I’m currently learning SQL and BI tools
+- Aspiring data engineer
 
 <!---
 cristopheridlc/cristopheridlc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
