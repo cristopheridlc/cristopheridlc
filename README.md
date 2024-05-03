@@ -1,4 +1,4 @@
-- Data Engineer
+- Data Management Specialist
 - Summer 2023 BI Engineer Intern at Amazon
 
 <!---
