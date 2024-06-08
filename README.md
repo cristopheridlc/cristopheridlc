@@ -1,5 +1,6 @@
 - Data Management Specialist
 - Summer 2023 Business Intelligence Engineer Intern at Amazon
+- Currently developing a cool app using Flutter!
 
 <!---
 cristopheridlc/cristopheridlc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
