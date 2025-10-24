@@ -4,7 +4,7 @@
 - Currently developing a cool app using Flutter!
 
 # Links
-- [cristopher.delacruz.info](https://cristopher.delacruz.info)
+- [cristopherdelacruz.com](https://cristopherdelacruz.com)
 - [LinkedIn](https://www.linkedin.com/in/cristopheridlc/)
 
 <!---
