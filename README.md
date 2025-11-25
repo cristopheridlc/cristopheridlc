@@ -1,5 +1,5 @@
 # About Me
-- My primary interests are data engineering & back-end development.
+- My primary interests are analytics engineering, data engineering, back-end development and homelabbing!
 - Previously worked at Amazon & BMW. Now a contractor for Dassault Systemès (DELMIAWorks).
 - Currently developing a cool app using Flutter!
 
