@@ -1,7 +1,6 @@
 # About Me
-- My primary interests are analytics engineering, data engineering, back-end development and homelabbing!
-- Previously worked at Amazon & BMW. Now a contractor for Dassault Systemès (DELMIAWorks).
-- Currently developing a cool app using Flutter!
+- My primary interests are data engineering, analytics engineering, business intelligence, back-end development and homelabbing!
+- Working @ BMW Manufacturing as a business intelligence (BI) engineer, cloud architect & administrator!
 
 # Links
 - [cristopherdelacruz.com](https://cristopherdelacruz.com)
