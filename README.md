@@ -1,6 +1,6 @@
 # About Me
 - My primary interests are data engineering, analytics engineering, business intelligence, back-end development and homelabbing!
-- Working @ BMW Manufacturing as a data/business intelligence engineer, cloud architect & administrator!
+- Working @ Eye Health America as a business intelligence developer & data analyst!
 
 # Links
 - [cristopherdelacruz.com](https://cristopherdelacruz.com)
